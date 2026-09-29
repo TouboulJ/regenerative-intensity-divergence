@@ -1,0 +1,20 @@
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# generated figures and cached data (regenerate with code/simulations.py)
+code/figures/
+code/donnees/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/

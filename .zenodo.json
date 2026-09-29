@@ -1,0 +1,15 @@
+{
+  "title": "Robust minimum-divergence estimation of point-process intensities — replication package",
+  "upload_type": "software",
+  "description": "Replication package (code and manuscript source) for a weighted-intensity density-power-divergence M-estimator of point-process intensities. Includes a single-file simulation driver and per-result scripts reproducing every figure (renewal, inhomogeneous Poisson, change-in-intensity, Hawkes, proof-condition checks, and a real-data illustration), all with fixed random seeds.",
+  "creators": [
+    { "name": "Touboul, Jacques", "affiliation": "Independent Researcher" }
+  ],
+  "keywords": [
+    "point process", "intensity estimation", "density power divergence", "robustness",
+    "bounded influence", "martingale central limit theorem", "Hawkes process",
+    "renewal process", "goodness-of-fit", "minimum Hellinger distance"
+  ],
+  "license": "MIT",
+  "access_right": "open"
+}
